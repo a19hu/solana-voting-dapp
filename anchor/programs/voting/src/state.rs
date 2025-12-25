@@ -1,7 +1,4 @@
-#[warn(dead_code)]
-
 use anchor_lang::prelude::*;
-
 
 #[account]
 #[derive(InitSpace)]
